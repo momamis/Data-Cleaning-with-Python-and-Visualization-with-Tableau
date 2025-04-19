@@ -25,7 +25,7 @@ The dataset used in this project is from: https://www.kaggle.com/datasets/hmavro
 
 ## Steps Taken
 
-### Data Cleaning:
+### Data Cleaning
 - Imported the dataset and renamed columns for better readability.
 - Converted the `season` column from numerical to string format to enhance interpretability.
 
